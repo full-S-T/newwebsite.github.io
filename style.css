@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    margin: 0;
+    background: url(https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg) no-repeat center center fixed;
+}
